@@ -1,0 +1,15 @@
+{
+  "name": "hapi-rethinkdb-thinky",
+  "description": "Hapi plugin that automatically loads your Thinky models",
+  "version": "1.0.0",
+  "devDependencies": {
+    "coffee-script": "^1.8.0"
+  },
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "object-assign": "^1.0.0"
+  }
+}
