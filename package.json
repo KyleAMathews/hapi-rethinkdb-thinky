@@ -1,15 +1,26 @@
 {
   "name": "hapi-rethinkdb-thinky",
   "description": "Hapi plugin that automatically loads your Thinky models",
-  "version": "1.0.0",
+  "version": "0.0.0",
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "bugs": "https://github.com/KyleAMathews/hapi-rethinkdb-thinky/issues",
+  "dependencies": {
+    "object-assign": "^1.0.0"
+  },
   "devDependencies": {
     "coffee-script": "^1.8.0"
   },
+  "homepage": "https://github.com/KyleAMathews/hapi-rethinkdb-thinky",
+  "keywords": [
+    "hapi",
+    "plugin",
+    "rethinkdb",
+    "thinky"
+  ],
+  "license": "MIT",
   "main": "dist/index.js",
+  "repository": "https://github.com/KyleAMathews/hapi-rethinkdb-thinky",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "object-assign": "^1.0.0"
+    "test": "echo \"Error: no test specified\" && exit 0"
   }
 }
