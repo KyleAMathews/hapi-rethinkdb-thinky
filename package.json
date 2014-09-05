@@ -1,7 +1,7 @@
 {
   "name": "hapi-rethinkdb-thinky",
   "description": "Hapi plugin that automatically loads your Thinky models",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "bugs": "https://github.com/KyleAMathews/hapi-rethinkdb-thinky/issues",
   "dependencies": {
