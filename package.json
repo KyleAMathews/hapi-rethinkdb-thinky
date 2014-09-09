@@ -6,7 +6,7 @@
   "bugs": "https://github.com/KyleAMathews/hapi-rethinkdb-thinky/issues",
   "dependencies": {
     "object-assign": "^1.0.0",
-    "thinky": "git://github.com/KyleAMathews/thinky#check-undefined-schema"
+    "thinky": "^1.14.4"
   },
   "devDependencies": {
     "coffee-script": "^1.8.0"
