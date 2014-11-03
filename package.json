@@ -5,6 +5,7 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "bugs": "https://github.com/KyleAMathews/hapi-rethinkdb-thinky/issues",
   "dependencies": {
+    "glob": "^4.0.6",
     "object-assign": "^1.0.0",
     "thinky": "^1.14.4"
   },
