@@ -7,7 +7,7 @@
   "dependencies": {
     "glob": "^4.0.6",
     "object-assign": "^1.0.0",
-    "thinky": "^1.14.4"
+    "thinky": "^1.15.0"
   },
   "devDependencies": {
     "coffee-script": "^1.8.0"
